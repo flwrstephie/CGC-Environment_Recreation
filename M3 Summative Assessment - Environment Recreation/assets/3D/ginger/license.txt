@@ -1,0 +1,11 @@
+Model Information:
+* title:	Neko Atsume Brown Cat
+* source:	https://sketchfab.com/3d-models/neko-atsume-brown-cat-545e94f8905244b996e4623db5a8fd3f
+* author:	ItsTifaLockhart (https://sketchfab.com/KateGirl.SK)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Neko Atsume Brown Cat" (https://sketchfab.com/3d-models/neko-atsume-brown-cat-545e94f8905244b996e4623db5a8fd3f) by ItsTifaLockhart (https://sketchfab.com/KateGirl.SK) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
